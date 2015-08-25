@@ -1,0 +1,21 @@
+{
+  "name": "lectures",
+  "version": "0.0.0",
+  "authors": [
+    "Michael Jaser <michael.jaser@peerigon.com>"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "license": "Unlicense",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "remark": "^0.11.0",
+  }
+}
