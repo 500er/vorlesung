@@ -15,7 +15,7 @@
 
     .slide-cover[
     Webentwicklung mit Node.js<br>
-    Wintersemester 2015/2016<br>
+    WS 2015/2016<br>
     HS Augsburg
     
     Michael Jaser<br>
@@ -31,6 +31,15 @@
     .slide-header-right[
     Node.js WS 15/16 HSA
     ]
+
+    ---
+
+    # Agenda
+
+    - Über uns
+    - Organisatorisches
+    - JavaScript
+    - Node.js
     
     ---
     
@@ -45,6 +54,11 @@
     Wirtschaftsinformatik BSc
 
     ---
+
+    - TODO peerigon Team
+
+    ---
+
 
     <img src="../assets/img/roomieplanet-logo.png" height="150" /><br>
 
@@ -92,17 +106,18 @@
     ## Ablauf
     
     - Theorie gepaart mit vielen Übungen
-    - TODO: Abgaben
-    - 1 Team-Abgabe (Projektarbeit)
+      - Katas
+      - Workshops
+    - Projektarbeit
     
     ---
     
     ## Projektarbeit
-    
+
     - 2er-Teams
     - freie Themenwahl
     - parallel zur Vorlesung
-    - TODO: Zeitraum
+    - wird benotet (Prüfungsleistung)
     - Abgabe der Projektarbeit via [GitHub](https://github.com/)
     
     ---
@@ -200,6 +215,16 @@
     beinhaltet z.B. das DOM, welches von der W3C spezifiziert wird
     
     ---
+
+    <img src="../assets/img/node-architecture.png" style="width: 50vh">
+
+    - Bindings between JavaScript and C/C++
+    - __libuv__ file system abstraction
+    - Core Library (filesystem, os, process, ...)
+
+
+    ---
+
     
     # Bekannte JavaScript-Engines
     
@@ -214,11 +239,81 @@
     
     ---
     
-    # Übung: Hello World via Console
+    # Übung: Hello World via Browser (Console)
     
     ---
     
-    # Übung: Hello World via JS-File
+    # Übung: Hello World via Node.js
+
+    ---
+
+    # Node.js Philosophie
+
+
+    ---
+
+    # Small Core
+
+    - nur sehr wenige Module in der Standard Bibliothek
+    - __Ziel:__ einen Großteil der Community überlassen
+    - schnelle Iterationen
+    - Freiheit und Flexibilität für die Community
+    - "Konkurrenz belebt das Geschäft"
+
+    ---
+
+    # Small Modules
+
+    angelehnt an die UNIX Philosophie
+
+    - "Small is beautiful."
+    - "Make each program do one thing well."
+
+    ---
+
+    # Small surface area
+
+    - minimale durchdachte APIs
+    - optimiert auf ein Use-Case
+
+    ---
+
+    # Simplicity and pragmatism
+
+    >"Simplicity is the ultimate sophistication" (Leonardo Da Vinci)
+
+    - Keep It Simple, Stupid (KISS)
+    - pragmatische Ansätze
+
+    ---
+
+    # Was ist io.js?
+
+    <img src="../assets/img/iojs.png" style="width:50%">
+
+    ---
+
+    # io.js
+
+    - die Community war unzufrieden mit...
+      - der Geschwindigkeit der Entwicklung
+      - dem Management durch Joyent
+    - es kam zu einem Fork namens _io.js_
+      - Community managed
+      - häufige Releases nach _semver_
+      - aktuelle V8 als Basis
+
+    ---
+
+    # Node.js -> io.js -> Node.js
+
+    - io.js und Node.js wurden wieder gemerged
+    - Version 4.0.0 war der initiale Release
+    - Node.js wird fortan von der Node.js Foundation gemanaged
+    - Es gibt sehr viele Arbeitsgruppen über die man sich einbringen kann
+
+
+    ---
     
 </textarea>
     <script src="../bower_components/remark/out/remark.js" type="text/javascript">
