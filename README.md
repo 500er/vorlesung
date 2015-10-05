@@ -3,7 +3,7 @@ Vorlesung
 
 Skripte & Beispiele zur Vorlesung "Webentwicklung mit Node.js" an der Hochschule Augsburg.
 
-## Abgabe der Projektarbeit:<br>TBA
+## Abgabe der Projektarbeit: 23.12.2015 / 23:59
 
 ## Termine
 
@@ -12,11 +12,52 @@ Raum J 3.19
 
 ## Agenda
 
-- Einführung x.10 [Skript](http://hsa-nodejs-ws1516.github.io/vorlesung/1-einfuehrung/#1)
 
-## Aufgaben
+### 06.10. – Einführung [Skript](http://hsa-nodejs-ws1516.github.io/vorlesung/1-einfuehrung/#1)
 
-TBA 
+### 13.10 – All about JavaScript
+
+### 20.10 – Welcome to the Future
+
+- JavaScript: ES2015 
+  - Script 
+  - Workshop
+- Module 
+  - Script 
+  - Workshop 
+
+### 27.10 – Node.js 
+
+- Basics
+  - Script
+  - Workshop
+- Event-Loop & Callbacks
+  - Script 
+  - Workshop 
+
+### 03.11 – Projekteinteilung 
+
+### 10.11 – Web-Hacking
+
+### 17.11 – Datenbanken
+
+### 24.11 – Control Flow
+
+- Promises
+- Streams
+
+### 01.12 – Test Driven Development
+
+### 08.12 – Projekt-Support
+ 
+### 15.12 – Projekt-Support
+
+### 21.12 – Projekt-Support
+
+### 12.01 – Projektvorstellung
+
+### 19.01 Wünsch dir was! 
+
 
 ## IDE
 
@@ -69,7 +110,6 @@ Referenz zum Nachschlagen
 
 [Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)<br>
 Selbsterklärend
-
 
 
 ### Git
