@@ -253,6 +253,22 @@
 
     # Node.js
 
+    ---
+
+    ```javascript
+    var http = require('http');
+
+    http.createServer(function (req, res) {
+      res.writeHead(200, {'Content-Type': 'text/plain'});
+      res.end('Hello World\n');
+    }).listen(1337, "127.0.0.1");
+
+    console.log('Server running at http://127.0.0.1:1337/');
+    ```
+
+    ---
+
+    - ist serverseitiges JavaScript
     - wurde 2009 veröffentlicht von Ryan Dahl
     - seit 2015 verwaltet von der Node.js Foundation
     - basiert auf der V8 JavaScript Engine
@@ -339,11 +355,9 @@
 
     ---
 
-    # Übung: Hello World via Browser (Console)
+    # Übungen
 
-    ---
-
-    # Übung: Hello World via Node.js
+    - siehe https://github.com/hsa-nodejs-ws1516/workshops
 
     
 </textarea>

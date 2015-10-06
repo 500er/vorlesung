@@ -90,6 +90,8 @@ Umfassendes Buch zum Thema JavaScript. Für Einsteiger und Forgeschrittene. Crea
 
 [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns) 
 
+>The book kicks off by exploring the fundamental principles and components that define the platform. It then shows you how to master asynchronous programming and how to design elegant and reusable components using well-known patterns and techniques. The book rounds off by teaching you the various approaches to scale, distribute, and integrate your Node.js application.
+
 [Speaking JavaScript](http://speakingjs.com/)
 >This book has been written for programmers, by a programmer. In order to understand it, you should already know object-oriented programming, for example, via a mainstream programming language such as Java, PHP, C++, Python, Ruby, Objective-C, Swift, C#, or Perl.
  Thus, the book’s target audience is programmers who want to learn JavaScript quickly and properly, and JavaScript programmers who want to deepen their skills and/or look up specific topics.
