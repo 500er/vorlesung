@@ -1,0 +1,21 @@
+{
+  "name": "vorlesung",
+  "version": "1.0.0",
+  "description": "Script zur Vorlesung Node.js Webentwicklung an der Hochschule Augsburg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsa-nodejs-ws1516/vorlesung.git"
+  },
+  "author": "Michael Jaser <michael.jaser@peerigon.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hsa-nodejs-ws1516/vorlesung/issues"
+  },
+  "homepage": "https://github.com/hsa-nodejs-ws1516/vorlesung#readme",
+  "dependencies": {
+  }
+}

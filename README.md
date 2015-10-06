@@ -12,12 +12,11 @@ Raum J 3.19
 
 ## Agenda
 
-
 ### 06.10. – Einführung [Skript](http://hsa-nodejs-ws1516.github.io/vorlesung/1-einfuehrung/#1)
 
-### 13.10 – All about JavaScript
+### 13.10 – JavaScript WTF
 
-### 20.10 – Welcome to the Future
+### 20.10 – ES2015 / Module
 
 - JavaScript: ES2015 
   - Script 
