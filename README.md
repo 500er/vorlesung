@@ -3,6 +3,8 @@ Vorlesung
 
 Skripte & Beispiele zur Vorlesung "Webentwicklung mit Node.js" an der Hochschule Augsburg.
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hsa-nodejs-ws1516/vorlesung?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ## Abgabe der Projektarbeit: 23.12.2015 / 23:59
 
 ## Termine
